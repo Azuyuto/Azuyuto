@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on scary project Kebattle with my group ⚡
+
 <!--
 **Azuyuto/Azuyuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
